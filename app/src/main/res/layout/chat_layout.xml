@@ -39,7 +39,6 @@
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:drawableStart="@drawable/baseline_search"
                 android:drawablePadding="10sp"
                 android:hint="@string/pergunte_meta_ai_ou_pesquise"
                 android:inputType="textPersonName"
